@@ -1,29 +1,29 @@
 ```text
-                    !rrrrt111t*!                          renato@github ────────────────────────────────────────
-                  jtjrr*!;*jt11fftr:                      · OS: ............................ Windows 11, Android
-                 k*;!rt1tjr!;;***rr11,                    · Uptime: ...................... 10+ years shipping UX
-                f11g%RH@@@R%qk1tjr*!tj                    · Host: ......... Arven · MultaZero · Balcão de Milhas
-               j1q@@@@@@@@@@HHR%gkfr!r!                   · Kernel: ............. UX Designer / Founding Partner
-               1tR@@@@@@@@@@@@@HRR%g*!;                   · IDE: ................... Figma, VS Code, Claude Code
-               1q@@@HH@@@@@@@@@@@Hqqj*:
-               rH@qk1jtfgqq%ggffkqqqfj:                   · Languages.Design: ............ UI/UX, Design Systems
-              qk@HkfrjjtgH@gj*r*rj1%k:                    · Languages.Programming: ........... JS, React, Python
-              %%@@@H%q%R@@@%k1ft1tfRktj                   · Languages.Real: ................. Português, English
-              g%@@@@@@@@@@@Rq%RR%%RRkR!
-              *%RHHHHH@%1gfjk%RRRR%gk1                    · Hobbies.Software: ......... Retro Gaming, AI Tooling
-               *qRHH%%%k11tjf%%R%gg1j                     · Hobbies.Hardware: ........ PC Building, Setup Tuning
-                tqq%1fkgkkf1tt1fgftr                      · Hobbies.Offline: ............ Café, Churrasco, Games
-              ,:rjt%HHHRqgkkkgkft**;.,,
-          .,;rt1!*rjRHH%k1fgggkj;!;*r!;;,:::,             ─ Contact ────────────────────────────────────────────
-        ;;!*rtj*.rHjjfkf11fff1*;jf,.;rr*!,.:.!r           · Email: ................. renatocampossenaa@gmail.com
-       r:*r:tj!;.;@Hqfj*;;!*!!r1%* ,.!:!r!;;*.1!          · LinkedIn: ....................... /in/renatocamposux
-     ;f!!r.*j!;:.,qRRRRqfttjt1kgk! ,,:,*r*!*!;1!          · Site: ............................. arvenoficial.com
-    ;1k:!;*r:::,.r1%%qqq%gf11fkkfj!.:;:::*r!;t!*tr
-;*jjr;tj.:*!;::.:1kq%qgggf11fkkkk1fr.:;!;!rrj;.*!;*:      ─ GitHub Stats ───────────────────────────────────────
-jr***;:jr;*;:,,:tkq%%%qgfffkggqgqqkq1,::;!!*!:;rr;!!;     · Repos: ............................. ## | Stars: ###
-!*!!!!,r!;;:,,,tgqRRRRR%qqqq%R%%H%qqRr,::!*,.,;;;!;,*!    · Commits: .................... #,### | Followers: ###
-:;!;:;r::;::::;k%%RHRHHHH%%R@%%R@qRR%f,!;;*;,,;!:;.:;**
-:.;;:r!.,::,,:rkR%RH@HHRq%H@q%H@R%H%Hk:*r,;,.,:!::.:;;*;
-:,.!j!..:!,,:.rgRRHHH@Hq%@@q%@@@%Hq%H%!;r!,;:.,:,,,:;::;
-,::;;,.,::.,:,;qRHRRRRq%@@%%@H@HRqqRHRt,**:;;..:,,,:;::!
+                        !*!*r**!!;;;;                     renato@github ────────────────────────────────────────
+                      j11j!;:!***rrrrr*!:                 · OS: ............................ Windows 11, Android
+                     gfj*!*r**!**!;!!***j1;               · Uptime: ...................... 10+ years shipping UX
+                     %k*tkq%%%%RRR%gftj*!tt               · Host: ......... Arven · MultaZero · Balcão de Milhas
+                     1tgRHH@@H@@@@@@HHqf*t;               · Kernel: ............. UX Designer / Founding Partner
+                     tg%RRH@HH@@@@@@HHHH1j                · IDE: ................... Figma, VS Code, Claude Code
+                     fq%RH@@@@@@@@@@@HRHqg;
+                     ggkkf1kqRRR%gfkgqqRH%                · Languages.Design: ............ UI/UX, Design Systems
+                     tgttj111q@Hg11jtfk%@k                · Languages.Programming: ........... JS, React, Python
+                    tqqkgg%qg%@HR%%q%%qRH%%*              · Languages.Real: ................. Português, English
+                    jHqRHHHRgR@@RH@@@@@HHH@
+                     gqRH@@%kfRggR@@@@@HR%1               · Hobbies.Software: ......... Retro Gaming, AI Tooling
+                     *k%R%qgttgf1q%R@@HRg1                · Hobbies.Hardware: ........ PC Building, Setup Tuning
+                      j1gtff11fkffkkkRRkf!                · Hobbies.Offline: ............ Café, Churrasco, Games
+                      **rg%qqqqqRHRRgk1t1;
+                       *!1%%qkt1k%HRg1*tr                 ─ Contact ────────────────────────────────────────────
+                        !*jfg11gkqqg1rr%                  · Email: ................. renatocampossenaa@gmail.com
+                         1t!*j!rrtrr*t%@t                 · LinkedIn: ....................... /in/renatocamposux
+                         g%g1r*rjt1g%@@HHgj:              · Site: ............................. arvenoficial.com
+                     ,;*%%qR@@R%@@@@@@@HRH@trr*!:,
+                 ;;**rr*jq%R@@@@H@@@@@@@@qrrrrjjjjrrrrr*  ─ GitHub Stats ───────────────────────────────────────
+            :!**r*****!***jfgR@@@@@@@@Hq1**r**rr******rr  · Repos: ............................. ## | Stars: ###
+      :!!**rrr*********!***!!!*rjttjjj*!!*r***rr*****!!!  · Commits: .................... #,### | Followers: ###
+    !rrr*************************!*******r****rr****!!!*
+  ;rr***!!!*************rr***rrr**rrr*!;**!*!!*******!!*
+ !r*!!!**!!****!!!!******************!;!*!!!!!!*!!***!!!
+!r**!*!*r*!!!*!!!!*******r**********!;;*!!!!!!!*!!!!!!!!
 ```
